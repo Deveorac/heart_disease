@@ -36,6 +36,8 @@ This project takes data from the Cleveland heart disease dataset, [available on 
 
 There are 2 exploratory questions answered and one prediction model built in this project. 
 
+A blog post about this project is also available on [Medium](https://medium.com/@mehrnaz.tech/predicting-heart-disease-risk-factors-data-science-project-38b82a273090). 
+
 <!-- BUILT WITH -->
 ### Built With
 
