@@ -12,7 +12,7 @@
   <h3 align="center">Heart Disease Risk Analysis</h3>
 
   <p align="center">
-    Exploration and prediction model built from the Cleaveland heart disease risk dataset, [available on Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). 
+    Exploration and prediction model built from the Cleveland heart disease risk dataset.
   </p>
 </p>
 
@@ -24,7 +24,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Skills](#skills)
-* [Summary](#summary)
+* [Driving Questions](#questions)
 * [Findings](#findings)
 * [Contact](#contact)
 
@@ -32,31 +32,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project started by gathering data from the Ford GoBike website (now under Lyft) for all months of 2019. Data was aggregated and cleaned. A series of visualizations (univariate, bivariate, and multivariate) were created to explore the data.  
+This project takes data from the Cleveland heart disease dataset, [available on Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). This dataset includes data on sex, age, commonly used health metrics, and more, as well as a column for cardiovascular disease status. 
 
+There are 2 exploratory questions answered and one prediction model built in this project. 
+
+<!-- BUILT WITH -->
 ### Built With
 
 * Jupyter Notebooks
 * Pandas/Numpy
 * Matplotlib
 * Seaborn
-* Geopandas
+* Scikit
 
+<!-- QUESTIONS -->
+## Driving Questions
 
-<!-- SKILLS -->
-## Skills
-
-Data was gathered from an open online database, aggregated, and cursory cleaning was performed. New columns for day and month were created from the existing timecode column. 
-
-Most of this project revolved around visualizations for univariate, bivariate, and multivariate questions. 
-
-<!-- SUMMARY -->
-## Summary
-
-In this project, key information about GoBike/BayWheels usage was explored, including information about what time of the day and week different users are more likely to use the bikes. 
+1. 
 
 <!-- FINDINGS -->
-## Key Insights
+## Findings
 
 Through the analysis, some interesting observations were made:
 
