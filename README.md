@@ -48,20 +48,18 @@ There are 2 exploratory questions answered and one prediction model built in thi
 <!-- QUESTIONS -->
 ## Driving Questions
 
-1. 
+1. What factors are most impacted by patient gender?
+2. Is there a difference in symptoms for patients in different age groups?
+3. What factors best predict heart disease risk?
 
 <!-- FINDINGS -->
 ## Findings
 
-Through the analysis, some interesting observations were made:
+Through this project, we were able to answer our three driving questions.
 
-* There is increased usage in March, April, July, and October.
-* The vast majority of trips are less than 10 minute long.
-* Most of the bikes are used for commutes, as demonstrated by the peaks in usage around 8-9 AM and 5-6 PM.
-  * Customers, who likely are not using the bikes for commutes, typically have longer rides.
-* The time of day when a bike is rented has no impact on how long the trip will be.
-  * However, any true effect of time of day may be hidden by the overwhelming number of trips less than 10 minutes in duration.
-* In the customer use by time of day graph, we see that some customers may be using the bikes for a one-off commute, or to test the service for a commute before becoming a subscriber. 
+* More females than males in this dataset have heart disease. Men with heart disease tend to be older and have positively-skewed serum cholesterol levels while females tend to have higher maximum heart rates.
+* Younger patients tend to have lower serum cholesterol and higher maximum heart rates. Age seems to not have an impact on resting blood pressure, likely because this already has such a small range.
+* The best factors to predict heart disease risk are thalassemia, the number of blood vessels determined by flourosopy and the maximum heart rate. EKG st slope and resting pressure are not good predictors. All other factors are slight predictors.
 
 <!-- CONTACT -->
 ## Contact
